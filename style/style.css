@@ -1,0 +1,18 @@
+*{
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+h1,h3{
+    color: rgb(11, 121, 121);
+}
+ul li  a{
+    color: black;
+    text-decoration: none;
+}
+span{
+    color: silver;
+}
